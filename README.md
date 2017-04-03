@@ -1,0 +1,1 @@
+# introduce Docker as running environment and build process for our Telecoms projects
